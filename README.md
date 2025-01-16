@@ -1,0 +1,3 @@
+# Uncommon Python Error: Unexpected Input Handling in Average Calculation
+This repository demonstrates an example of an uncommon error in Python, specifically focusing on unexpected input handling during an average calculation.  The original code lacks sufficient error handling and type checking, leading to potential issues when the input list is empty or contains non-numeric values.
+The `bug.py` file contains the flawed code, while `bugSolution.py` provides a more robust and error-resistant solution.  This example highlights the importance of comprehensive input validation in Python to prevent unexpected behavior and crashes.
